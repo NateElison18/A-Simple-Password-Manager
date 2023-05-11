@@ -65,5 +65,7 @@ So far, the project has been a one man job. However, there are many improvements
 + Make it so the program doesn't end when an invalid format is input by the user when selecting from the menus. 
 + Not allowing the user to input spaces when entering account/user info
 + Disallow the user to select options to display account info when there are no accounts yet saved
++ More encryption layers
++ Make the code more flexible by separating it out into methods.
 
 If you would like to make any improvements, please reach out to me at elisonnathan@gmail.com. 
