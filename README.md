@@ -10,7 +10,7 @@ I put the project together to demonstrate what I have learned in OOP1. It is als
 The program is pretty self explanitory. The first time run, it will prompt the user to create the first User, before requiring them to login. From there users are faced with the main menu with multiple options. 
 It is important to remember spaces in account information will break the text file and the program. Also, apart from the first user, any subsequent users created must first create an account before logging out, or else the text file will not save their user login info (deleting the user). 
 
-[First time user experience](image.png)
+[First time user experience]([image.png](https://github.com/NateElison18/A-Simple-Password-Manager/blob/main/First%20Time%20User%20Experience.png))
 
 ## Code Example
 the runProgram method combines methods into try/catch blocks and loops so that the text file can be created and initialized to be used in the rest of the program. The code can be further improved by further separating the code into even more methods. 
